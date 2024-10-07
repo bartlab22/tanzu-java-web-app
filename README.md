@@ -52,3 +52,4 @@ You can use the IDE plugins for VSCode or IntelliJ IDEA to enable live update. Y
 3. You can hit the spacebar to open the Tilt UI in a browser. 
 # tanzu-java-web-app
 # tanzu-java-web-app
+# tanzu-java-web-app
